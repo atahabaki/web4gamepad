@@ -1,0 +1,10 @@
+* {
+	margin: none;
+	border: none;
+	padding: none;
+	outline: none;
+}
+
+input {
+	border: 1px solid #333;
+}
